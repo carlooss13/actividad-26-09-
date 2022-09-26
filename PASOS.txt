@@ -1,0 +1,2 @@
+PASOS:
+1)añadir archivos. git add
