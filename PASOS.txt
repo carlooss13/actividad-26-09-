@@ -1,4 +1,5 @@
 PASOS:
-1)añadir archivos. git add
-2)clonamos repositorio a local. git clone
+
+1)clonamos repositorio a local. git clone
+2)añadir archivos llamado pasos. git add
 3)guardamos el archivo . git commit-M
