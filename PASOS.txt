@@ -1,3 +1,4 @@
 PASOS:
 1)añadir archivos. git add
-2)guardamos el archivo . git commit-M
+2)clonamos repositorio a local. git clone
+3)guardamos el archivo . git commit-M
