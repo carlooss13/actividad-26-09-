@@ -3,3 +3,4 @@ PASOS:
 1)clonamos repositorio a local. git clone
 2)añadir archivos llamado pasos. git add
 3)guardamos el archivo . git commit-M
+4)subimos los cambios y el archivo al remoto. git push
