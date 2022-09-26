@@ -1,2 +1,3 @@
 PASOS:
 1)añadir archivos. git add
+2)guardamos el archivo en local. git commit-M
